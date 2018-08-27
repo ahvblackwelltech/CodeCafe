@@ -1,3 +1,5 @@
+@import 'styles.css';
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -332,9 +334,11 @@ header .header-order {
 /* FOOTER */
 
 footer {
-    width: calc(100% - 80px);
-    padding: 20px 20px;
-    margin-top: 20px;
+       max-width: 58.8rem;
+       padding: 20px 20px;
+       margin-top: 4rem ;
+         margin-left: 1rem;
+    
     background-color: #111;
     overflow: hidden;
 }
