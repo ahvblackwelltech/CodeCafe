@@ -196,6 +196,8 @@ header .header-order {
     display: none;
 }
 
+
+
 @media only screen and (min-width: 1000px) {
     header .header-brand {
         margin: 31px 0;
@@ -234,7 +236,7 @@ header .header-order {
 .index-banner {
     width: 100%;
     height: calc(100vh - 100px);
-    background-image: url('img/nightcoder.jpg');
+    background-image: url('/img/nightcoder.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
